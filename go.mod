@@ -1,3 +1,3 @@
-module github.com/myyrakle/go-test-lib
+module lib
 
 go 1.19
